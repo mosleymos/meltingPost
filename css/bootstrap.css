@@ -61,7 +61,8 @@ dfn {
 }
 h1 {
   margin: .67em 0;
-  font-size: 2em;
+  font-size: 8em;
+
 }
 mark {
   color: #000;
@@ -226,6 +227,7 @@ th {
   h3 {
     orphans: 3;
     widows: 3;
+    font-size: 1em;
   }
   h2,
   h3 {
@@ -413,6 +415,7 @@ h2 .small,
 h3 .small,
 .h3 .small {
   font-size: 65%;
+  text-align: center;
 }
 h4,
 .h4,
@@ -440,6 +443,7 @@ h6 .small,
 h1,
 .h1 {
   font-size: 36px;
+  text-align: center;
 }
 h2,
 .h2 {
@@ -4401,6 +4405,7 @@ a.list-group-item.active > .badge,
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 63px;
+    text-align: center;
   }
 }
 .thumbnail {
